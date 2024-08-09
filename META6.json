@@ -1,13 +1,28 @@
 {
-    "perl": "6.*",
-    "name": "Algorithm::LCS",
-    "license" : "MIT",
-    "version": "0.1.0",
-    "description": "Implementation of the longest common subsequence algorithm",
-    "author": "Rob Hoelz",
-    "depends": [],
-    "provides" : {
-        "Algorithm::LCS" : "lib/Algorithm/LCS.pm"
-    },
-    "source-url": "git://github.com/hoelzro/p6-algorithm-lcs.git"
+  "auth": "zef:raku-community-modules",
+  "authors": [
+    "Rob Hoelz",
+    "Raku Community"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Implementation of the longest common subsequence algorithm",
+  "license": "MIT",
+  "name": "Algorithm::LCS",
+  "perl": "6.*",
+  "provides": {
+    "Algorithm::LCS": "lib/Algorithm/LCS.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/hoelzro/p6-algorithm-lcs.git",
+  "tags": [
+    "ALGORITHM",
+    "LCS"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.1.0"
 }
