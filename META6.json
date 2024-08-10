@@ -17,12 +17,12 @@
   },
   "resources": [
   ],
-  "source-url": "https://github.com/hoelzro/p6-algorithm-lcs.git",
+  "source-url": "https://github.com/raku-community-modules/Algorithm-LCS.git",
   "tags": [
     "ALGORITHM",
     "LCS"
   ],
   "test-depends": [
   ],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }

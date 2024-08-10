@@ -1,4 +1,6 @@
 Revision history for Algorithm::LCS
 
 {{$NEXT}}
+
+0.1.1  2024-08-10T17:01:29+02:00
     - Initial version as a Raku Community Module

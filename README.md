@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/hoelzro/p6-algorithm-lcs/actions/workflows/linux.yml/badge.svg)](https://github.com/hoelzro/p6-algorithm-lcs/actions) [![Actions Status](https://github.com/hoelzro/p6-algorithm-lcs/actions/workflows/macos.yml/badge.svg)](https://github.com/hoelzro/p6-algorithm-lcs/actions) [![Actions Status](https://github.com/hoelzro/p6-algorithm-lcs/actions/workflows/windows.yml/badge.svg)](https://github.com/hoelzro/p6-algorithm-lcs/actions)
+[![Actions Status](https://github.com/raku-community-modules/Algorithm-LCS/actions/workflows/linux.yml/badge.svg)](https://github.com/raku-community-modules/Algorithm-LCS/actions) [![Actions Status](https://github.com/raku-community-modules/Algorithm-LCS/actions/workflows/macos.yml/badge.svg)](https://github.com/raku-community-modules/Algorithm-LCS/actions) [![Actions Status](https://github.com/raku-community-modules/Algorithm-LCS/actions/workflows/windows.yml/badge.svg)](https://github.com/raku-community-modules/Algorithm-LCS/actions)
 
 NAME
 ====
